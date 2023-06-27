@@ -1,2 +1,3 @@
 # SpammyV1
-This program is for spamming messages in web based programs like whatsappweb , discord .  **Warning-This program is made for educational purposes only. Using it for malicious uses is not neither expected nor encouraged. I will not be responsible for any harm caused due to this program **
+This program is for spamming messages in web based programs like whatsappweb , discord .  **Warning-This program is made for educational purposes only. Using it for malicious purposes is neither expected nor encouraged. I will not be responsible for any harm caused due to this program **
+You can use this program on a python ide or on terminal (to use it on terminal type  python3 before file name and press enter .)
